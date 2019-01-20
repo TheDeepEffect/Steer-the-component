@@ -1,0 +1,19 @@
+The whole idea is copied from The Code Train's video 
+: https://youtu.be/4hA7G3gup-4
+
+Comments are added as per my understanding
+
+
+
+sterering velocity= desired velocity- current velocity
+
+this means steering is term used for the change in velocity required to stop exactly at target position
+
+
+
+
+
+--Article : "Arrive" : Go to the target but not as fast as possible
+                        this means if target is far desired velocity must be high
+                        target is near then desired velocity must be slow
+                        and if the target is arrived then desired velocity must be 0
